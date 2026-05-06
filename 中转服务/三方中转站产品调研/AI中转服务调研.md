@@ -1,11 +1,12 @@
 # AI 编程 API 中转服务调研
 
-> 说明：这份文件保留为早期长稿归档。当前正式入口请优先查看 [AI中转服务索引](AI中转服务索引.md)，新增平台与专题分析优先维护独立文档。
->
-> 已拆分文档包括：OpenRouter、ChatFire、DeRouter、PPToken、APIMart、OmniXAI、AICodeWith、CodeCMD、AICodeMirror、哈基米AI、BeefAPI，以及两个专题文档。
-
-> 调研日期：2026-03-13 ~ 2026-03-14，2026-04-19 补充 OpenRouter，2026-04-21 补充 ChatFire
+> 文档类型：归档长稿
+> 最近更新：2026-05-06
+> 用途：保留早期合并调研稿；正式入口请优先查看 [AI中转服务索引](AI中转服务索引.md)，新增平台与专题分析优先维护独立文档。
+> 原始调研区间：2026-03-13 ~ 2026-03-14，2026-04-19 补充 OpenRouter，2026-04-21 补充 ChatFire
 > 调研对象：AICodeWith、CodeCMD、AICodeMirror、哈基米 AI、OpenRouter、ChatFire 及同类平台
+
+已拆分文档包括：OpenRouter、ChatFire、DeRouter、PPToken、APIMart、OmniXAI、AICodeWith、CodeCMD、AICodeMirror、哈基米AI、BeefAPI，以及两个专题文档。
 
 ## 一、行业背景
 
