@@ -1,7 +1,7 @@
 # AI中转服务索引
 
 > 文档类型：目录索引
-> 最近更新：2026-05-06
+> 最近更新：2026-05-07
 > 用途：这是 `中转服务/三方中转站产品调研` 目录下 AI API 中转 / 统一网关竞品研究的正式入口页。平台调研优先维护独立文档，本页负责导航、分组和横向理解。
 > 上级入口：[中转服务文档总索引](../中转服务文档总索引.md)
 
@@ -27,6 +27,7 @@
 
 - [AICodeWith_全景解析](AICodeWith_全景解析.md)：统一额度池 + AI 编程工具接入。
 - [Code101_全景解析](Code101_全景解析.md)：订阅制 AI API Gateway，主打 Claude Code / Cursor / Codex CLI 低改造接入。
+- [CodeSome_全景解析](CodeSome_全景解析.md)：Claude Code 导向的交付平台，强调按量额度、月卡套餐、企业交付和社区运营。
 - [哈基米AI_全景解析](哈基米AI_全景解析.md)：全协议统一接入 + 一键配置工具。
 - [PPToken_全景解析](PPToken_全景解析.md)：充值 / 订阅 / 兑换 / 工具配置一体化。
 - [BeefAPI_全景解析](BeefAPI_全景解析.md)：接入路径极短，首页就是 onboarding。
@@ -61,6 +62,7 @@
 | DeRouter | 分销型平台 | Client Key、转售、动态价格 | 开发者、reseller |
 | AICodeWith | 编程 API 中转 | 统一额度池、工具接入 | AI 编程用户 |
 | Code101 | 订阅制工具网关 | Claude Code / Cursor / Codex 接入、会员式套餐 | AI 编程用户 |
+| CodeSome | Claude Code 交付平台 | 按量额度、月卡套餐、企业交付、社区运营 | AI Coding 用户、团队、创作者 |
 | 哈基米AI | 全协议中转 | OpenAI / Anthropic / Gemini 统一接入 | 个人开发者 |
 | PPToken | 会员型网关 | 充值、订阅、兑换、工具配置 | 高频工具用户 |
 | BeefAPI | 轻量接入网关 | onboarding、工具入口、一键命令 | Claude Code / Codex 用户 |
@@ -91,6 +93,7 @@
 
 - 首先看 [AICodeWith_全景解析](AICodeWith_全景解析.md)
 - 再看 [Code101_全景解析](Code101_全景解析.md)
+- 再看 [CodeSome_全景解析](CodeSome_全景解析.md)
 - 其次看 [PPToken_全景解析](PPToken_全景解析.md)
 - 再看 [BeefAPI_全景解析](BeefAPI_全景解析.md)
 - 再看 [可可AI_全景解析](可可AI_全景解析.md)

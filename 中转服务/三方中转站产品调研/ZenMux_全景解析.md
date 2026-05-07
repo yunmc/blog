@@ -5,6 +5,8 @@
 > 研究对象：https://zenmux.ai
 > 核心判断：ZenMux 不是传统低价代理站，更像一个强调官方供给、自动路由、故障切换、成本观测和稳定性赔付的 AI 统一网关产品。
 
+补充阅读：[ZenMux_Builder_Plan订阅解析](ZenMux_Builder_Plan订阅解析.md) ｜ [ZenMux_PAYG解析](ZenMux_PAYG解析.md)
+
 ## 一、一句话定位
 
 ZenMux 更接近 **Official-sourced AI Gateway + Routing Control Plane**，而不是只做请求转发的“中转地址”。
